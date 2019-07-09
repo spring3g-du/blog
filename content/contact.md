@@ -10,6 +10,6 @@ menu:
 ---
 
 
- If you want to raise an issue, please contact me . 
+ If you want to raise an issue, please contact me .
 
-{{< form-contact action="https://formspree.io/email@domain.tld"  >}}
+{{< form-contact action="https://formspree.io/306682253@qq.com"  >}}
