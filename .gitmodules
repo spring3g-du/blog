@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/spring3g-du/spring3g-du.github.io.git
+	branch = master
