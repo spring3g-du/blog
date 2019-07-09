@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
+featured_image: "images/contact.jpg"
 omit_header_text: true
 description: Go to the sea, if you would fish well.
 type: page
